@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>
+/******************************************************************************************************************
+ 
+Salutation à vous qui lisez ces quelques lignes.
+Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon portfolio.
+Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.
+​
+******************************************************************************************************************/
+</h1>
 
 <!--
 **LepetitPortfolio/LepetitPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
