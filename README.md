@@ -1,11 +1,11 @@
 <h3  style="text-align: center"><font style="color: rgb(69, 148, 52);">
-/******************************************************************************************************************
+/**************************************************************************************************************
   
 Salutation à vous qui lisez ces quelques lignes.  
 Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon Depot GitHub.  
 Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.  
   
-******************************************************************************************************************/
+**************************************************************************************************************/
 </font></h3>
 
 Lien vers mon portfolio: [lepetitportfolio.fr](https://www.lepetitportfolio.fr).
