@@ -1,4 +1,5 @@
-<h1><center>
+<h1>
+<p style="text-align:center">
 /********************************************************************
  
 Salutation à vous qui lisez ces quelques lignes.  
@@ -6,6 +7,7 @@ Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mo
 Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.  
 ​
 ********************************************************************/
+</p>
 </center></h1>
 
 <!--
