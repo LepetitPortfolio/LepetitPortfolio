@@ -1,11 +1,11 @@
 <h3 `#0969DA`>
-/********************************************************************
+/******************************************************************************************************************
   
 Salutation à vous qui lisez ces quelques lignes.  
 Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon Depot GitHub.  
 Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.  
   
-********************************************************************/
+******************************************************************************************************************/
 </h3>
 
 Lien vers mon portfolio: [lepetitportfolio](https://www.lepetitportfolio.fr).
