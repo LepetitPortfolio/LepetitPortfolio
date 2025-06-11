@@ -1,9 +1,9 @@
 <h1><center>
 /********************************************************************
  
-Salutation à vous qui lisez ces quelques lignes.
-Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon portfolio.
-Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.
+Salutation à vous qui lisez ces quelques lignes.  
+Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon portfolio.  
+Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.  
 ​
 ********************************************************************/
 </center></h1>
