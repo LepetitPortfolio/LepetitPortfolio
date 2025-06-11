@@ -8,7 +8,7 @@ Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous mo
 ******************************************************************************************************************/
 </font></h3>
 
-Lien vers mon portfolio: [lepetitportfolio](https://www.lepetitportfolio.fr).
+Lien vers mon portfolio: [lepetitportfolio.fr](https://www.lepetitportfolio.fr).
 
 <!--
 **LepetitPortfolio/LepetitPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
