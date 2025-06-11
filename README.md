@@ -1,14 +1,12 @@
-<h1>
-<p style="text-align:center">
+<h1 `#0969DA`>
 /********************************************************************
- 
+  
 Salutation à vous qui lisez ces quelques lignes.  
-Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon portfolio.  
+Je me présente Je m'appelle SIMON LEPETIT, je vous souhaite la bienvenue sur mon Depot GitHub.  
 Ce dernier a pour but de me présenter, d'exposer mes compétences et de vous montrer mes différents projets.  
-​
+  
 ********************************************************************/
-</p>
-</center></h1>
+</h1>
 
 <!--
 **LepetitPortfolio/LepetitPortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
