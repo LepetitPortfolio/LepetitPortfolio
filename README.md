@@ -1,4 +1,4 @@
-# 👋 Simon Lepetit — Développeur C++ & GameDev
+# 👋 Simon Lepetit — Développeur & GameDev
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lepetitportfolio.fr-blue?style=for-the-badge&logo=internetexplorer)](https://www.lepetitportfolio.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-LepetitPortfolio-181717?style=for-the-badge&logo=github)](https://github.com/LepetitPortfolio)
